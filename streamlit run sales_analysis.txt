@@ -1,0 +1,1 @@
+streamlit run C:\Users\carlo\PycharmProjects\Sales_analysis\src\app.py

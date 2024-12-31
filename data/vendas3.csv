@@ -1,0 +1,206 @@
+Data da Venda,Produto,Preço,Quantidade Vendida,Valor Total da Venda,Método de Pagamento,Status da Venda
+2024-07-07,Produto A,25.00,2,50,Paypal,Concluída
+2024-07-12,Produto B,100.00,1,100,Crédito Loja,Concluída
+2024-07-15,Produto C,50.00,3,150,Pix,Concluída
+2024-07-18,Produto D,30.00,2,60,Dinheiro,Pendente
+2024-07-22,Produto E,40.00,5,200,Cartão de Crédito,Concluída
+2024-07-25,Produto F,30.00,1,30,Boleto,Concluída
+2024-07-30,Produto G,30.00,3,90,Pix,Concluída
+2024-08-02,Produto H,30.00,4,120,Crédito Loja,Pendente
+2024-08-05,Produto I,20.00,2,40,Paypal,Concluída
+2024-08-09,Produto J,25.00,3,75,Pix,Concluída
+2024-08-11,Produto K,25.00,1,25,Dinheiro,Concluída
+2024-08-14,Produto L,50.00,5,250,Cartão de Crédito,Concluída
+2024-08-18,Produto M,25.00,2,50,Crédito Loja,Pendente
+2024-08-21,Produto N,40.00,1,40,Boleto,Concluída
+2024-08-24,Produto O,40.00,3,120,Paypal,Concluída
+2024-08-28,Produto P,40.00,4,160,Pix,Pendente
+2024-08-31,Produto Q,30.00,2,60,Crédito Loja,Concluída
+2024-09-04,Produto R,25.00,5,125,Cartão de Crédito,Concluída
+2024-09-08,Produto S,20.00,1,20,Dinheiro,Pendente
+2024-09-11,Produto T,30.00,3,90,Pix,Concluída
+2024-09-15,Produto U,20.00,2,40,Paypal,Concluída
+2024-09-18,Produto V,35.00,1,35,Cartão de Crédito,Concluída
+2024-09-22,Produto W,30.00,2,60,Pix,Pendente
+2024-09-26,Produto X,40.00,5,200,Boleto,Concluída
+2024-10-01,Produto Y,50.00,1,50,Crédito Loja,Pendente
+2024-10-04,Produto Z,30.00,3,90,Dinheiro,Concluída
+2024-10-07,Produto AA,35.00,2,70,Paypal,Concluída
+2024-10-10,Produto AB,30.00,4,120,Pix,Concluída
+2024-10-13,Produto AC,30.00,1,30,Crédito Loja,Pendente
+2024-10-17,Produto AD,50.00,3,150,Cartão de Crédito,Concluída
+2024-10-21,Produto AE,25.00,2,50,Pix,Concluída
+2024-10-24,Produto AF,25.00,3,75,Paypal,Concluída
+2024-10-27,Produto AG,25.00,4,100,Cartão de Crédito,Concluída
+2024-10-30,Produto AH,20.00,2,40,Crédito Loja,Pendente
+2024-11-02,Produto AI,25.00,5,125,Pix,Concluída
+2024-11-06,Produto AJ,30.00,3,90,Paypal,Concluída
+2024-11-10,Produto AK,30.00,1,30,Boleto,Concluída
+2024-11-14,Produto AL,30.00,2,60,Pix,Pendente
+2024-11-17,Produto AM,25.00,3,75,Dinheiro,Concluída
+2024-11-20,Produto AN,30.00,4,120,Cartão de Crédito,Concluída
+2024-11-23,Produto AO,25.00,2,50,Crédito Loja,Concluída
+2024-11-27,Produto AP,40.00,5,200,Pix,Concluída
+2024-11-30,Produto AQ,25.00,1,25,Paypal,Concluída
+2024-12-04,Produto AR,30.00,3,90,Dinheiro,Pendente
+2024-12-07,Produto AS,20.00,2,40,Pix,Concluída
+2024-12-10,Produto AT,40.00,4,160,Cartão de Crédito,Concluída
+2024-12-13,Produto AU,50.00,5,250,Crédito Loja,Concluída
+2024-12-17,Produto AV,35.00,1,35,Paypal,Pendente
+2024-12-20,Produto AW,30.00,3,90,Dinheiro,Concluída
+2024-12-23,Produto AX,35.00,2,70,Pix,Pendente
+2024-12-26,Produto AY,30.00,4,120,Cartão de Crédito,Concluída
+2024-12-29,Produto AZ,20.00,1,20,Crédito Loja,Concluída
+2024-12-31,Produto BA,25.00,2,50,Paypal,Concluída
+2025-03-03,Produto BU,35.00,2,70,Cartão de Crédito,Concluída
+2025-03-06,Produto BV,40.00,4,160,Boleto,Concluída
+2025-03-09,Produto BW,25.00,3,75,Pix,Concluída
+2025-03-12,Produto BX,30.00,1,30,Cartão de Crédito,Pendente
+2025-03-15,Produto BY,30.00,5,150,Pix,Concluída
+2025-03-18,Produto BZ,50.00,2,100,Boleto,Concluída
+2025-03-21,Produto CA,25.00,2,50,Cartão de Crédito,Concluída
+2025-03-24,Produto CB,40.00,3,120,Pix,Concluída
+2025-03-27,Produto CC,30.00,4,120,Boleto,Concluída
+2025-03-30,Produto CD,25.00,5,125,Cartão de Crédito,Concluída
+2025-04-02,Produto CE,35.00,1,35,Boleto,Concluída
+2025-04-05,Produto CF,30.00,2,60,Pix,Pendente
+2025-04-08,Produto CG,20.00,4,80,Cartão de Crédito,Concluída
+2025-04-11,Produto CH,25.00,3,75,Boleto,Concluída
+2025-04-14,Produto CI,40.00,5,200,Pix,Concluída
+2025-04-17,Produto CJ,30.00,1,30,Cartão de Crédito,Concluída
+2025-04-20,Produto CK,50.00,2,100,Pix,Concluída
+2025-04-23,Produto CL,35.00,3,105,Boleto,Concluída
+2025-04-26,Produto CM,40.00,4,160,Cartão de Crédito,Concluída
+2025-04-29,Produto CN,25.00,2,50,Boleto,Pendente
+2025-05-02,Produto CO,30.00,3,90,Pix,Concluída
+2025-05-05,Produto CP,35.00,1,35,Cartão de Crédito,Concluída
+2025-05-08,Produto CQ,40.00,4,160,Boleto,Concluída
+2025-05-11,Produto CR,30.00,5,150,Pix,Concluída
+2025-05-14,Produto CS,25.00,2,50,Cartão de Crédito,Concluída
+2025-05-17,Produto CT,40.00,3,120,Boleto,Concluída
+2025-05-20,Produto CU,50.00,1,50,Pix,Concluída
+2025-05-23,Produto CV,25.00,3,75,Cartão de Crédito,Concluída
+2025-05-26,Produto CW,30.00,2,60,Boleto,Concluída
+2025-05-29,Produto CX,35.00,4,140,Pix,Concluída
+2025-06-01,Produto CY,25.00,3,75,Cartão de Crédito,Concluída
+2025-06-04,Produto CZ,30.00,2,60,Pix,Concluída
+2025-06-07,Produto DA,40.00,1,40,Boleto,Pendente
+2025-06-10,Produto DB,30.00,5,150,Cartão de Crédito,Concluída
+2025-06-13,Produto DC,35.00,3,105,Pix,Concluída
+2025-06-16,Produto DD,25.00,4,100,Boleto,Concluída
+2025-06-19,Produto DE,50.00,2,100,Cartão de Crédito,Concluída
+2025-06-22,Produto DF,30.00,2,60,Pix,Concluída
+2025-06-25,Produto DG,25.00,5,125,Boleto,Concluída
+2025-06-28,Produto DH,40.00,1,40,Cartão de Crédito,Concluída
+2025-07-01,Produto DI,30.00,3,90,Boleto,Concluída
+2025-07-04,Produto DJ,50.00,1,50,Pix,Concluída
+2025-07-07,Produto DK,25.00,4,100,Cartão de Crédito,Concluída
+2025-07-10,Produto DL,30.00,3,90,Boleto,Concluída
+2025-07-13,Produto DM,40.00,5,200,Pix,Concluída
+2025-07-16,Produto DN,25.00,2,50,Cartão de Crédito,Concluída
+2025-07-19,Produto DO,30.00,2,60,Boleto,Concluída
+2025-07-22,Produto DP,35.00,3,105,Pix,Concluída
+2025-07-25,Produto DQ,40.00,4,160,Cartão de Crédito,Concluída
+2025-07-28,Produto DR,25.00,5,125,Boleto,Concluída
+2025-07-31,Produto DS,30.00,3,90,Pix,Concluída
+2025-08-03,Produto DT,35.00,2,70,Cartão de Crédito,Concluída
+2025-08-06,Produto DU,40.00,3,120,Boleto,Concluída
+2025-08-09,Produto DV,25.00,5,125,Pix,Concluída
+2025-08-12,Produto DW,30.00,2,60,Cartão de Crédito,Pendente
+2025-08-15,Produto DX,30.00,4,120,Pix,Concluída
+2025-08-18,Produto DY,50.00,1,50,Boleto,Concluída
+2025-08-21,Produto DZ,25.00,2,50,Cartão de Crédito,Concluída
+2025-08-24,Produto EA,40.00,3,120,Pix,Concluída
+2025-08-27,Produto EB,30.00,4,120,Boleto,Concluída
+2025-08-30,Produto EC,25.00,3,75,Cartão de Crédito,Concluída
+2025-09-02,Produto ED,35.00,1,35,Boleto,Concluída
+2025-09-05,Produto EE,30.00,2,60,Pix,Pendente
+2025-09-08,Produto EF,20.00,4,80,Cartão de Crédito,Concluída
+2025-09-11,Produto EG,25.00,3,75,Boleto,Concluída
+2025-09-14,Produto EH,40.00,5,200,Pix,Concluída
+2025-09-17,Produto EI,30.00,1,30,Cartão de Crédito,Concluída
+2025-09-20,Produto EJ,50.00,2,100,Pix,Concluída
+2025-09-23,Produto EK,35.00,3,105,Boleto,Concluída
+2025-09-26,Produto EL,40.00,4,160,Cartão de Crédito,Concluída
+2025-09-29,Produto EM,25.00,2,50,Boleto,Pendente
+2025-10-02,Produto EN,30.00,3,90,Pix,Concluída
+2025-10-05,Produto EO,35.00,1,35,Cartão de Crédito,Concluída
+2025-10-08,Produto EP,40.00,4,160,Boleto,Concluída
+2025-10-11,Produto EQ,30.00,5,150,Pix,Concluída
+2025-10-14,Produto ER,25.00,2,50,Cartão de Crédito,Concluída
+2025-10-17,Produto ES,40.00,3,120,Boleto,Concluída
+2025-10-20,Produto ET,50.00,1,50,Pix,Concluída
+2025-10-23,Produto EU,25.00,3,75,Cartão de Crédito,Concluída
+2025-10-26,Produto EV,30.00,2,60,Boleto,Concluída
+2025-10-29,Produto EW,35.00,4,140,Pix,Concluída
+2025-11-01,Produto EX,25.00,3,75,Cartão de Crédito,Concluída
+2025-11-04,Produto EY,30.00,2,60,Pix,Concluída
+2025-11-07,Produto EZ,40.00,1,40,Boleto,Pendente
+2025-11-10,Produto FA,30.00,5,150,Cartão de Crédito,Concluída
+2025-11-13,Produto FB,35.00,3,105,Pix,Concluída
+2025-11-16,Produto FC,25.00,4,100,Boleto,Concluída
+2025-11-19,Produto FD,50.00,2,100,Cartão de Crédito,Concluída
+2025-11-22,Produto FE,30.00,2,60,Pix,Concluída
+2025-11-25,Produto FF,25.00,5,125,Boleto,Concluída
+2025-11-28,Produto FG,40.00,1,40,Cartão de Crédito,Concluída
+2025-12-01,Produto FH,30.00,3,90,Boleto,Concluída
+2025-12-04,Produto FI,50.00,1,50,Pix,Concluída
+2025-12-07,Produto FJ,25.00,4,100,Cartão de Crédito,Concluída
+2025-12-10,Produto FK,30.00,3,90,Boleto,Concluída
+2025-12-13,Produto FL,40.00,5,200,Pix,Concluída
+2025-12-16,Produto FM,25.00,2,50,Cartão de Crédito,Concluída
+2025-12-19,Produto FN,30.00,2,60,Boleto,Concluída
+2025-12-22,Produto FO,35.00,3,105,Pix,Concluída
+2025-12-25,Produto FP,40.00,4,160,Cartão de Crédito,Concluída
+2025-12-28,Produto FQ,25.00,5,125,Boleto,Concluída
+2025-12-31,Produto FR,30.00,3,90,Pix,Concluída
+2026-01-03,Produto FS,35.00,4,140,Cartão de Crédito,Concluída
+2026-01-06,Produto FT,25.00,2,50,Boleto,Concluída
+2026-01-09,Produto FU,30.00,5,150,Pix,Concluída
+2026-01-12,Produto FV,50.00,3,150,Cartão de Crédito,Concluída
+2026-01-15,Produto FW,25.00,4,100,Boleto,Concluída
+2026-01-18,Produto FX,40.00,2,80,Pix,Concluída
+2026-01-21,Produto FY,30.00,3,90,Cartão de Crédito,Concluída
+2026-01-24,Produto FZ,35.00,4,140,Boleto,Concluída
+2026-01-27,Produto GA,25.00,5,125,Pix,Concluída
+2026-01-30,Produto GB,40.00,3,120,Cartão de Crédito,Concluída
+2026-02-02,Produto GC,30.00,2,60,Boleto,Concluída
+2026-02-05,Produto GD,25.00,4,100,Pix,Concluída
+2026-02-08,Produto GE,50.00,1,50,Cartão de Crédito,Concluída
+2026-02-11,Produto GF,30.00,2,60,Boleto,Concluída
+2026-02-14,Produto GG,40.00,3,120,Pix,Concluída
+2026-02-17,Produto GH,25.00,5,125,Cartão de Crédito,Concluída
+2026-02-20,Produto GI,30.00,4,120,Boleto,Concluída
+2026-02-23,Produto GJ,40.00,1,40,Pix,Concluída
+2026-02-26,Produto GK,35.00,2,70,Cartão de Crédito,Concluída
+2026-03-01,Produto GL,30.00,3,90,Boleto,Concluída
+2026-03-04,Produto GM,25.00,4,100,Pix,Concluída
+2026-03-07,Produto GN,40.00,2,80,Cartão de Crédito,Concluída
+2026-03-10,Produto GO,50.00,3,150,Boleto,Concluída
+2026-03-13,Produto GP,35.00,1,35,Pix,Concluída
+2026-03-16,Produto GQ,30.00,2,60,Cartão de Crédito,Concluída
+2026-03-19,Produto GR,40.00,4,160,Boleto,Concluída
+2026-03-22,Produto GS,25.00,3,75,Pix,Concluída
+2026-03-25,Produto GT,30.00,5,150,Cartão de Crédito,Concluída
+2026-03-28,Produto GU,50.00,2,100,Boleto,Concluída
+2026-03-31,Produto GV,35.00,3,105,Pix,Concluída
+2026-04-03,Produto GW,25.00,4,100,Cartão de Crédito,Concluída
+2026-04-06,Produto GX,30.00,2,60,Boleto,Concluída
+2026-04-09,Produto GY,40.00,1,40,Pix,Concluída
+2026-04-12,Produto GZ,50.00,5,250,Cartão de Crédito,Concluída
+2026-04-15,Produto HA,30.00,3,90,Boleto,Concluída
+2026-04-18,Produto HB,25.00,2,50,Pix,Concluída
+2026-04-21,Produto HC,40.00,4,160,Cartão de Crédito,Concluída
+2026-04-24,Produto HD,30.00,5,150,Boleto,Concluída
+2026-04-27,Produto HE,50.00,2,100,Pix,Concluída
+2026-04-30,Produto HF,35.00,1,35,Cartão de Crédito,Concluída
+2026-05-03,Produto HG,25.00,3,75,Boleto,Concluída
+2026-05-06,Produto HH,30.00,4,120,Pix,Concluída
+2026-05-09,Produto HI,40.00,2,80,Cartão de Crédito,Concluída
+2026-05-12,Produto HJ,25.00,4,100,Boleto,Concluída
+2026-05-15,Produto HK,50.00,1,50,Pix,Concluída
+2026-05-18,Produto HL,30.00,2,60,Cartão de Crédito,Concluída
+2026-05-21,Produto HM,35.00,3,105,Boleto,Concluída
+2026-05-24,Produto HN,40.00,1,40,Pix,Concluída
+2026-05-27,Produto HO,25.00,2,50,Cartão de Crédito,Concluída
+2026-05-30,Produto HP,30.00,4,120,Boleto,Concluída
