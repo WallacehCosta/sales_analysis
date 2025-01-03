@@ -1,8 +1,8 @@
 """
-Pacote para análise de vendas de pequenos negócios.
+Package for Small Business Sales Analysis
 
-Este pacote inclui módulos para manipulação, análise e visualização de dados de vendas.
+This package includes modules for data manipulation, analysis, and sales data visualization.
 """
 
-__version__ = "1.0.0"
+__version__ = "1.0.1"
 __author__ = "Wallace de Holanda Costa"
