@@ -1,0 +1,52 @@
+/* Reset básico para garantir consistência entre navegadores */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Estilos globais para o corpo da página */
+body {
+  font-family: 'Inter', sans-serif; /* Fonte padrão */
+  line-height: 1.6;
+  background-color: #f9fafb; /* Cor de fundo suave */
+  color: #1f2937; /* Cor de texto escura */
+}
+
+/* Estilos para links */
+a {
+  color: #3b82f6; /* Azul padrão para links */
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Estilos para botões */
+button {
+  cursor: pointer;
+  font-family: inherit;
+}
+
+/* Estilos para inputs */
+input, textarea {
+  font-family: inherit;
+  font-size: 1rem;
+  padding: 0.5rem;
+  border: 1px solid #d1d5db; /* Cinza claro */
+  border-radius: 0.375rem; /* Borda arredondada */
+}
+
+input:focus, textarea:focus {
+  outline: none;
+  border-color: #3b82f6; /* Azul ao focar */
+  box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.1); /* Sombra suave */
+}
+
+/* Estilos para containers */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
